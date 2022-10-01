@@ -1,0 +1,34 @@
+{
+  "name": "aurelien",
+  "users": [
+    "aurelien",
+    "aurelie"
+  ],
+  "transactions": [
+    {
+      "who": "aurelien",
+      "amount": 5.7,
+      "what": "courses"
+    },
+    {
+      "who": "aurelie",
+      "amount": 3.2,
+      "what": "tablette"
+    },
+    {
+      "who": "aurelien",
+      "amount": 2.2,
+      "what": "PQ"
+    },
+    {
+      "who": "aurelien",
+      "amount": 300.0,
+      "what": "Nouvel achat"
+    },
+    {
+      "who": "aurelien",
+      "amount": 500.0,
+      "what": "Nouvel achat"
+    }
+  ]
+}

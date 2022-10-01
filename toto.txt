@@ -1,0 +1,20 @@
+{
+  "name": "toto",
+  "users": [
+    "aurelien",
+    "aurelie",
+    "tinai"
+  ],
+  "transactions": [
+    {
+      "who": "aurelien",
+      "amount": 5.7,
+      "what": "courses"
+    },
+    {
+      "who": "aurelie",
+      "amount": 0.0,
+      "what": "Nouvel achat"
+    }
+  ]
+}
